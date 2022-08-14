@@ -1,2 +1,2 @@
 - Power BI dashboards for marketing campaign
-- Data Source: Marketing Campaigns result
+- Data Source: Marketing Campaigns result dataset taken from Maven Analytics
